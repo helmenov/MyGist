@@ -1,0 +1,3 @@
+[submodule "my_macros.sty"]
+	path = my_macros.sty
+	url = git@gist.github.com:25929050d511f0b71372.git
